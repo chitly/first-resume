@@ -7064,11 +7064,14 @@ article.block:hover {
 .skills {
     background-color: #fad8cf;
 }
-.activities {
+.experiences {
     background-color: #fdf2c5;
 }
-.end {
+.activities {
     background-color: #fad8cf;
+}
+.end {
+    background-color: #fdf2c5;
 }
 @media (max-width: 767px) {
     .main {
